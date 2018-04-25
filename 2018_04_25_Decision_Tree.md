@@ -51,7 +51,6 @@ Explore Tree
 ``` r
 plotcp(tree)
 ```
-
 <img src="2018_04_25_Decision_Tree_files/figure-markdown_github/unnamed-chunk-3-1.png" width="900" />
 
 ``` r
