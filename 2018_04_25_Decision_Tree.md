@@ -298,5 +298,5 @@ Explore Tree
 plot(tree_pruning, main="Classification tree for iris")
 text(tree_pruning)
 ```
-
+ 
 <img src="2018_04_25_Decision_Tree_files/figure-markdown_github/unnamed-chunk-13-1.png" width="900" />
